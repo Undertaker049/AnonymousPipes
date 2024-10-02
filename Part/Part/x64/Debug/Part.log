@@ -1,0 +1,5 @@
+﻿  Part.cpp
+C:\Part\Part\Part.cpp(9,18): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+C:\Part\Part\Part.cpp(10,18): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+C:\Part\Part\Part.cpp(39,55): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Part.vcxproj -> C:\Part\x64\Debug\Part.exe
