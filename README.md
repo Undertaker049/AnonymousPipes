@@ -1,4 +1,4 @@
-# AnonymousPipes
+# Description
 Demo project of three synchronized console processes that exchange data through anonymous channels, created in Visual Studio
 
 # How it works
