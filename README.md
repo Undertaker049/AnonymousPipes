@@ -1,5 +1,5 @@
 # AnonymousPipes
-Three synchronized console processes that exchange data through anonymous channels
+Demo project of three synchronized console processes that exchange data through anonymous channels
 
 # How it works
 The Server process transmits the user-defined array size to the Client process via an anonymous channel. 
